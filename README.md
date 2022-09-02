@@ -22,4 +22,4 @@
 
 ### WIP project 
 1. [Galmetry SandBox - Computational Geometry Stuff](https://github.com/gallottino/computational-geometry)
-2. [Hexagon Glass - Logical Game in Flutter]()
+2. [Hexagon Glass - Logical Game in Flutter](https://github.com/Sibrox/HexagonGlass)
