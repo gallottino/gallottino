@@ -1,19 +1,18 @@
-## A Tech Garden
+
 👋🏻 Hi coders!
 
 🐔 You can call me **Gallottino**, but my real name is *Davide*.
 
 👨‍💻 I'm a **Software Engineer** based on *Turin* 🇮🇹
 
-![Gallottino's GitHub stats](https://github-readme-stats.vercel.app/api?username=gallottino&show_icons=true&theme=dracula)
-
-
 🌐 I can speak only two languages (Italian and English)
 
-⌨️ But I can write **many** more:
+⌨️ But I can write **many** more
 
-![code_language](https://user-images.githubusercontent.com/33552039/163731849-cb517cd0-ff45-4dfc-b83b-68f91ba9bf5f.png)
-
+### Collaborative Open Source projects
+1. [Clementine - A GBA Emulator in Rust](https://github.com/RIP-Comm/clementine)
+2. [APPetit - Just Eat Clone in Java](https://github.com/androidmaycry/APPetit)
+3. [cppGeoTile](https://github.com/Murthy10/cppGeoTile)
 
 ### SFML C++ Game projects
 1. [Caterpillar (A Snake clone)](https://github.com/gallottino/Caterpillar)
@@ -21,5 +20,6 @@
 3. [Chess](https://github.com/gallottino/Chess)
 4. [Tic Tac Toe](https://github.com/gallottino/TicTacToe)
 
-![SFML games](https://user-images.githubusercontent.com/33552039/163732065-af41ea54-3b00-4b3a-aa9e-0967fba5f10c.png)
-
+### WIP project 
+1. [Galmetry SandBox - Computational Geometry Stuff](https://github.com/gallottino/computational-geometry)
+2. [Hexagon Glass - Logical Game in Flutter]()
