@@ -15,6 +15,10 @@
 3. [APPetit - Just Eat Clone in Java](https://github.com/androidmaycry/APPetit)
 4. [cppGeoTile](https://github.com/Murthy10/cppGeoTile)
 
+### Team projects
+1. [PoliTOcean - Student team from Politecnico di Torino (Underwater ROV)](https://github.com/PoliTOcean)
+2. [Hackaton Like@Home - 1st place](https://github.com/aiy-voice-assistant)
+
 ### SFML C++ Game projects
 1. [Chess](https://github.com/gallottino/Chess)
 3. [Minesweeper 88](https://github.com/gallottino/Minesweeper)
