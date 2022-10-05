@@ -3,7 +3,7 @@
 🐔 You can call me **Gallottino**, but my real name is *Davide*.\
 👨‍💻 I'm a **Software Engineer** based on *Turin* 🇮🇹\
 🌐 I can speak only two languages (Italian and English)\
-⌨️ But I can write **many** more\
+⌨️ But I can write **many** more
 
 ### Collaborative Open Source projects
 1. [Clementine - A GBA Emulator in Rust](https://github.com/RIP-Comm/clementine)
