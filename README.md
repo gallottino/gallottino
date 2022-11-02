@@ -21,5 +21,5 @@
 2. [Caterpillar (A Snake clone)](https://github.com/gallottino/Caterpillar)
 
 ### WIP project 
-1. [Galmetry SandBox - Computational Geometry Stuff](https://github.com/gallottino/computational-geometry)
+1. [Galmetry - a Rust crate for Computational Geometry](https://github.com/gallottino/galmetry)
 2. [Hexagon Glass - Logical Game in Flutter](https://github.com/Sibrox/HexagonGlass)
