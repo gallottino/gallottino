@@ -5,6 +5,13 @@
 🌐 I can speak only two languages (Italian and English)\
 ⌨️ But I can write **many** more
 
+### Talks
+1. **GDG DevFest Campobasso 2024 - Refactoring Chess to Onitama**
+   
+   Starting from the codebase of the chess game and carefully using various refactoring techniques I created a famous variant (Onitama) in a very short time and without risks.
+
+   See the repo for more information: [Chess and Onitama](https://github.com/gallottino/chess-and-onitama)
+
 ### Collaborative Open Source projects
 1. [Clementine - A GBA Emulator in Rust](https://github.com/RIP-Comm/clementine)
 2. [Sossoldi - Cross-platform app for wealth managment](https://github.com/RIP-Comm/sossoldi)
