@@ -6,7 +6,7 @@
 ⌨️ But I can write **many** more
 
 ### Talks
-1. **GDG DevFest Campobasso 2024 - Refactoring Chess to Onitama**
+1. **How and when to refactor you codebase: the art of keep things in place**
    
    Starting from the codebase of the chess game and carefully using various refactoring techniques I created a famous variant (Onitama) in a very short time and without risks.
 
